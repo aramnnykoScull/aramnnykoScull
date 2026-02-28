@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет, я Scull 👋
 
-<!--
-**aramnnykoScull/aramnnykoScull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студент ТОГУ, направления 'программная инженерия'. Здесь вы найдёте мои учебные и личные проекты.
 
-Here are some ideas to get you started:
+## 🛠 Навыки
+- **Языки**: C, C++, Bash
+- **Инструменты**: Git, Make, GCC, VS Code, LaTeX
+- **Технологии**: работа с файлами, матрицами, структурами данных, JSON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Проекты
+Ниже представлены мои лабораторные работы за 3-й семестр (каждая в отдельном репозитории):
+
+| Работа | Тема | Репозиторий |
+|--------|------|-------------|
+| Лаб. 2 | Линейные программы | [lab2-programs-cpp](https://github.com/aramnnykoScull/lab2-programs-cpp.git) |
+| Лаб. 3 | Условные и циклические алгоритмы | [lab3-programs-cpp](https://github.com/aramnnykoScull/lab3-programs-cpp.git) |
+| Лаб. 4 | Работа с матрицами | [lab4-programs-cpp](https://github.com/aramnnykoScull/lab4-programs-cpp.git) |
+| Лаб. 5 | Обработка матриц | [lab5-programs-cpp](https://github.com/aramnnykoScull/lab5-programs-cpp.git) |
+| Лаб. 6 | Обработка текста | [lab6-programs-cpp](https://github.com/aramnnykoScull/lab6-programs-cpp.git) |
+| Лаб. 6 | Обработка текста на C | [lab6-programs-c](https://github.com/aramnnykoScull/lab6-programs-c.git) |
+| Лаб. 7 | Структуры и бинарное дерево | [lab7-programs-cpp](https://github.com/aramnnykoScull/lab7-programs-cpp.git) |
+| Лаб. 8 | Модульное программирование | [lab8-programs-cpp](https://github.com/aramnnykoScull/lab8-programs-cpp.git) |
+| Лаб. 9 | JSON и таблицы | [lab9-programs-cpp](https://github.com/aramnnykoScull/lab9-programs-cpp.git) |
+
+## 🎓 Образование
+- ТОГУ, Политехнический институт, Программная инженерия, 2024 – настоящее время
+
+## 📫 Контакты
+- Email: aramnnyko@gmail.com
+- Telegram: @AlexsScull
+
+## ⚡ Интересный факт
+Однажды на отдыхе, мне случилось открыть GitHub в Крыму. После этого на мой основной акаунт были наложены ограничения, включая отсутствие возможности создавать приватные репозитории. Пришлось создавать новый аккаунт)
